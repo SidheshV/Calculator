@@ -43,6 +43,8 @@ public static void main(String args[]){
 	System.out.println("Subtraction :"+fnc.subtract(10, 5));
 	System.out.println("Multiplication :"+fnc.multiply(5, 5));
 	System.out.println("Division :"+fnc.divide(10, 5));
+	
+	System.out.println("Some changes done");
 }
 		
 }
